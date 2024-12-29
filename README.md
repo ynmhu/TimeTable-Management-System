@@ -4,6 +4,8 @@ A következő frissítéseket és módosításokat végeztük el az adatbázis s
 
 Táblák átalakítása InnoDB-re: Az adatbázis motorját a MyISAM-ról InnoDB-re módosítottuk a következő táblák esetében:
 
+[https://](https://forum.ynm.hu/t/timetable-management-system-fixed-sql/269)
+
 admin
 
 alloc_slots
@@ -36,4 +38,4 @@ Adatbeillesztések és inicializálások: A szükséges adatokat beillesztettük
 
 Összegzés: A módosítások eredményeként az adatbázis mostantól hatékonyabban működik MariaDB alatt, kihasználva az InnoDB által nyújtott előnyöket, mint a tranzakciók kezelése, az adat integritás biztosítása, és a jobb egyidejű írási teljesítmény. Az idegen kulcsok hozzáadásával az adatok közötti kapcsolatok is biztosítottak, így az adatbázis könnyebben kezelhető és fenntartható.
 
-https://
+[https://](https://forum.ynm.hu/t/timetable-management-system-fixed-sql/269)
